@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhamad Azfar Aniq Bin Saffery
 
-<!--
-**an1g67/an1g67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in software engineering, AI and Cyber Security.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Computer Science, UiTM
+- Currently learning: Computer Science topic such as Java
+- My FYP area: Product Recommendation
+- Im a very hardworking person and willing to learn a new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+-HTML
+-Pyhton
+-Java
+-SQL
+
+## Projects
+-Smart Housing Recommendation System For UiTM Students Using Content Based Filtering
+-LecStur: A Java web based Student and Lecture Appointment System 
+-Inventory Management System: A Java web based application using Html and Netbeans
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/muhamad-azfar-aniq-saffery-14b5702a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Email: muhdaniqazfar@gmail.com
