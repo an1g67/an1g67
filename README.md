@@ -18,6 +18,11 @@ Computer Science student at UiTM interested in software engineering, AI and Cybe
 - Clear section headings
 - Clean bulleted feature lists
 
+## What I Learned
+* How to create and configure a public GitHub repository and set up topics.
+* How to create user stories and convert them into trackable GitHub Issues.
+* How to format documentation using standard Markdown syntax.
+
 ## Projects
 -Smart Housing Recommendation System For UiTM Students Using Content Based Filtering
 -LecStur: A Java web based Student and Lecture Appointment System 
