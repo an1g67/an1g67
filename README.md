@@ -5,7 +5,7 @@ Computer Science student at UiTM interested in software engineering, AI and Cybe
 ## About me
 - Studying: Computer Science, UiTM
 - Currently learning: Computer Science topic such as Java
-- My FYP area: Product Recommendation
+- My FYP area: Product/ Smart Housing Recommendation System 
 - Im a very hardworking person and willing to learn a new things.
 
 ## Skills and tools
