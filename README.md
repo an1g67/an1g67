@@ -14,6 +14,10 @@ Computer Science student at UiTM interested in software engineering, AI and Cybe
 -Java
 -SQL
 
+#Features
+- Clear section headings
+- Clean bulleted feature lists
+
 ## Projects
 -Smart Housing Recommendation System For UiTM Students Using Content Based Filtering
 -LecStur: A Java web based Student and Lecture Appointment System 
